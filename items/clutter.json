@@ -1,5 +1,4 @@
 [
-  {"//": "plushies"},
   {
     "type": "GENERIC",
     "id": "plushie_slime",
@@ -31,7 +30,8 @@
     "qualities": [ [ "SLEEP_AID", 4 ] ]
   },
 
-  {"//": "bodypillows"},
+
+  
   {
     "type": "GENERIC",
     "id": "bodypillow_template",
@@ -63,8 +63,9 @@
     "qualities": [ [ "SLEEP_AID", 4 ] ]
   },
 
+
   
-  {"//": "other pillows"},
+  
   {
     "type": "GENERIC",
     "id": "sword_slumber",
