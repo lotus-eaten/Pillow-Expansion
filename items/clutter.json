@@ -1,4 +1,33 @@
 [
+  {"//": "plushies"},
+  {
+    "type": "GENERIC",
+    "id": "plushie_slime",
+    "symbol": ",",
+    "color": "ltblue",
+    "name": { "str": "slime plushie" },
+    "description": "Far from the slimes you're used to, this looks like a giant, slightly flattened droplet of water, with a ."
+    "price": "20 USD",
+    "price_postapoc": "1 USD",
+    "material": [ "cotton" ],
+    "weight": "800 g",
+    "volume": "1 L",
+  },
+  {
+    "type": "GENERIC",
+    "id": "sword_plushie",
+    "symbol": "!",
+    "color": "light_gray",
+    "name": { "str": "sword plushie" },
+    "description": "It is a plushie of a steel broadsword with a blue eye adorning the center of its crossguard. A blue fabric tail stems from the pommel, within which its own ancient sheath is held. The ultimate weapon in a pillow fight."
+    "price": "7 USD",
+    "price_postapoc": "1 USD",
+    "material": [ "cotton" ],
+    "weight": "250 g",
+    "volume": "1250 ml",
+  },
+
+  {"//": "bodypillows"},
   {
     "type": "GENERIC",
     "id": "bodypillow_template",
@@ -13,5 +42,49 @@
     "volume": "1750 ml",
     "category": "scrap_fabric",
     "qualities": [ [ "SLEEP_AID", 4 ] ]
+  },
+   {
+    "type": "GENERIC",
+    "id": "bodypillow_rimuru",
+    "symbol": "[",
+    "color": "blue",
+    "name": { "str": "template pillow" },
+    "description": "A big, body-sized pillow with a print of a blue-haired .",
+    "price": "60 USD",
+    "price_postapoc": "1 USD",
+    "material": [ "cotton" ],
+    "weight": "774g",
+    "volume": "1750 ml",
+    "category": "scrap_fabric",
+    "qualities": [ [ "SLEEP_AID", 4 ] ]
+  },
+
+  
+  {"//": "other pillows"},
+  {
+    "type": "GENERIC",
+    "id": "sword_slumber",
+    "symbol": "!",
+    "color": "light_gray",
+    "name": { "str": "slumber sword" },
+    "description": "Behold. Now you can turn anywhere into a slumber party."
+    "price": "10 USD",
+    "price_postapoc": "1.5 USD",
+    "material": [ "cotton, wood" ],
+    "weight": "1200 g",
+    "volume": "1500 ml",
+    "bashing": 4,
+    "to_hit": 1,
+    "flags": [ "SHEATH_SWORD" ],
+    "techniques": [ "WBLOCK_1" ]
+  },
+  {
+    "result": "sword_slumber",
+    "type": "uncraft",
+    "skill_used": "fabrication",
+    "difficulty": 1,
+    "time": "1m",
+    "components": [ [ [ "sword_plushie", 1 ] ], [ [ "sword_wood", 1 ] ] ],
+    "flags": [ "BLIND_EASY" ],
   }
 ]
