@@ -83,7 +83,7 @@
     "bashing": 4,
     "to_hit": 1,
     "flags": [ "SHEATH_SWORD" ],
-    "techniques": [ "WBLOCK_1" ]
+    "techniques": [ "WBLOCK_1" ],
     "qualities": [ [ "BUTCHER", -50, "SLEEP_AID", 2 ] ],
   },
   {
