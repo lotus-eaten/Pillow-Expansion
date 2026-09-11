@@ -1,2 +1,2 @@
-# Pillow-Expansion
+# Second Chance Pillow Expansion
 Expands a certain type of pillow.
