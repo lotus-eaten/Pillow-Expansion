@@ -77,7 +77,7 @@
     "description": "Behold. Despite its initial innocent-seeming appearance, what you wield now grants you the power to turn any place into a slumber party. It's certainly not as comfortable to rest your head on as before, though.",
     "price": "10 USD",
     "price_postapoc": "1 USD",
-    "material": [ "cotton, wood" ],
+    "material": [ "cotton", "wood" ],
     "weight": "1200 g",
     "volume": "1500 ml",
     "bashing": 4,
