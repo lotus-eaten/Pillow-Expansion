@@ -1,0 +1,9 @@
+[
+  {
+    "id": "bodypillows",
+    "type": "item_group",
+    "items": [
+      [ "bodypillow_template", 30 ]
+    ]
+  }
+]
