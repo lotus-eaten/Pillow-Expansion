@@ -20,7 +20,7 @@
     "symbol": "!",
     "color": "light_gray",
     "name": { "str": "sword plushie" },
-    "description": "It is a plushie of a steel broadsword with a blue eye adorning the center of its crossguard. A blue fabric tail stems from the pommel, within which its own ancient sheath is held. The ultimate weapon in a pillow fight."
+    "description": "It is a plushie of a steel broadsword with a blue eye adorning the center of its crossguard. A blue fabric tail stems from the pommel, within which its own ancient sheath is held. The ultimate weapon in a pillow fight.",
     "price": "7 USD",
     "price_postapoc": "1 USD",
     "material": [ "cotton" ],
@@ -74,7 +74,7 @@
     "symbol": "!",
     "color": "light_gray",
     "name": { "str": "slumber sword" },
-    "description": "Behold. Despite its initial innocent-seeming appearance, what you wield now grants you the power to turn any place into a slumber party. It's certainly not as comfortable to rest your head on as before, though."
+    "description": "Behold. Despite its initial innocent-seeming appearance, what you wield now grants you the power to turn any place into a slumber party. It's certainly not as comfortable to rest your head on as before, though.",
     "price": "10 USD",
     "price_postapoc": "1.5 USD",
     "material": [ "cotton, wood" ],
