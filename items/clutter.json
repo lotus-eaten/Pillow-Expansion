@@ -6,12 +6,14 @@
     "symbol": ",",
     "color": "ltblue",
     "name": { "str": "slime plushie" },
-    "description": "Far from the slimes you're used to, this looks like a giant, slightly flattened droplet of water, with a ."
+    "description": "Far from the slimes you're used to, this looks like a giant, light blue, slightly flattened droplet of water. It wears a relaxed closed-eye expression with two little pink blush dots. Looking at this conjures the words, \"I'm not a bad slime...!\"",
     "price": "20 USD",
     "price_postapoc": "1 USD",
     "material": [ "cotton" ],
     "weight": "800 g",
     "volume": "1 L",
+    "category": "scrap_fabric",
+    "qualities": [ [ "SLEEP_AID", 4 ] ]
   },
   {
     "type": "GENERIC",
@@ -25,6 +27,8 @@
     "material": [ "cotton" ],
     "weight": "250 g",
     "volume": "1250 ml",
+    "category": "scrap_fabric",
+    "qualities": [ [ "SLEEP_AID", 4 ] ]
   },
 
   {"//": "bodypillows"},
@@ -64,10 +68,12 @@
   {
     "type": "GENERIC",
     "id": "sword_slumber",
+    "category": "weapons",
+    "weapon_category": [ "1H_SWORDS" ],
     "symbol": "!",
     "color": "light_gray",
     "name": { "str": "slumber sword" },
-    "description": "Behold. Now you can turn anywhere into a slumber party."
+    "description": "Behold. Despite its initial innocent-seeming appearance, what you wield now grants you the power to turn any place into a slumber party. It's certainly not as comfortable to rest your head on as before, though."
     "price": "10 USD",
     "price_postapoc": "1.5 USD",
     "material": [ "cotton, wood" ],
@@ -77,6 +83,7 @@
     "to_hit": 1,
     "flags": [ "SHEATH_SWORD" ],
     "techniques": [ "WBLOCK_1" ]
+    "qualities": [ [ "BUTCHER", -50, "SLEEP_AID", 2 ] ],
   },
   {
     "result": "sword_slumber",
