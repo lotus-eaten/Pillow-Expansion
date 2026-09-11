@@ -1,0 +1,17 @@
+[
+  {
+    "type": "GENERIC",
+    "id": "bodypillow_template",
+    "symbol": "[",
+    "color": "blue",
+    "name": { "str": "template pillow" },
+    "description": "A big, body-sized template for whatever kind of bodypillow you want to make.",
+    "price": "60 USD",
+    "price_postapoc": "1 USD",
+    "material": [ "cotton" ],
+    "weight": "774g",
+    "volume": "1750 ml",
+    "category": "scrap_fabric",
+    "qualities": [ [ "SLEEP_AID", 4 ] ]
+  }
+]
