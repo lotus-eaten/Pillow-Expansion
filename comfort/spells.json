@@ -1,0 +1,12 @@
+[
+  {
+    "id": "spell_plushie_slime",
+    "type": "SPELL",
+    "name": { "str": "Touch the plush?" },
+    "description": "Comfort.",
+    "valid_targets": [ "self" ],
+    "effect": "message",
+    "message_snippet": "plushie_slime_comfort",
+    "flags": [ "SILENT", "NO_LEGS" ]
+  }
+]
