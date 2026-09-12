@@ -1,6 +1,6 @@
 [
   {
-    "type": "TOOL",
+    "type": "GENERIC",
     "id": "plushie_slime",
     "symbol": ",",
     "color": "cyan",
@@ -14,10 +14,10 @@
     "category": "scrap_fabric",
     "qualities": [ [ "SLEEP_AID", 4 ] ],
     "use_action": {
-      "type": "consume_drug",
+      "type": "play_music",
       "moves": 0,
       "snippet_category": "plushie_slime_comfort",
-      "snippet_chance": 1
+      "volume": 0
     }
   },
   {
