@@ -1,6 +1,6 @@
 [
   {
-    "type": "GENERIC",
+    "type": "TOOL",
     "id": "plushie_slime",
     "symbol": ",",
     "color": "cyan",
@@ -12,7 +12,13 @@
     "weight": "800 g",
     "volume": "1 L",
     "category": "scrap_fabric",
-    "qualities": [ [ "SLEEP_AID", 4 ] ]
+    "qualities": [ [ "SLEEP_AID", 4 ] ],
+    "use_action": {
+      "type": "consume_drug",
+      "moves": 0,
+      "snippet_category": "plushie_slime_comfort",
+      "snippet_chance": 1
+    }
   },
   {
     "type": "TOOL",
