@@ -27,7 +27,7 @@
     "volume": "1 L",
     "to_hit": -2,
     "category": "scrap_fabric",
-    "qualities": [ [ "SLEEP_AID", 4 ] ]
+    "qualities": [ [ "SLEEP_AID", 4 ] ],
     "ammo": [ "battery" ],
     "charges_per_use": 1,
     "turns_per_charge": 20,
