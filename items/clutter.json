@@ -1,7 +1,7 @@
 [
   {
-    "type": "GENERIC",
     "id": "plushie_slime",
+    "type": "GENERIC",
     "symbol": ",",
     "color": "cyan",
     "name": { "str": "slime plushie" },
@@ -14,15 +14,15 @@
     "category": "scrap_fabric",
     "qualities": [ [ "SLEEP_AID", 4 ] ],
     "use_action": {
-      "type": "play_music",
-      "moves": 0,
-      "snippet_category": "plushie_slime_comfort",
-      "volume": 0
+      "type": "cast_spell",
+      "spell_id": "spell_plushie_slime",
+      "no_fail": true,
+      "level": 0
     }
   },
   {
-    "type": "TOOL",
     "id": "plushie_chibi",
+    "type": "TOOL",
     "symbol": "|",
     "color": "pink",
     "name": { "str": "absurdly pink plushie" },
@@ -55,8 +55,8 @@
     "magazine_well": "250 ml"
   },
   {
-    "type": "GENERIC",
     "id": "sword_plushie",
+    "type": "GENERIC",
     "symbol": "!",
     "color": "light_gray",
     "name": { "str": "sword plushie" },
@@ -74,8 +74,8 @@
 
   
   {
-    "type": "GENERIC",
     "id": "bodypillow_rimuru",
+    "type": "GENERIC",
     "symbol": "[",
     "color": "cyan",
     "name": { "str": "slime body pillow" },
@@ -93,8 +93,8 @@
   
   
   {
-    "type": "GENERIC",
     "id": "sword_slumber",
+    "type": "GENERIC",
     "category": "weapons",
     "weapon_category": [ "1H_SWORDS" ],
     "symbol": "!",
