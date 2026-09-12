@@ -3,7 +3,7 @@
     "id": "bodypillows",
     "type": "item_group",
     "items": [
-      [ "bodypillow_template", 30 ]
+      [ "bodypillow_rimuru", 20 ]
     ]
   }
 ]
