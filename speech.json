@@ -1,0 +1,43 @@
+[
+  {
+    "type": "speech",
+    "speaker": [ "plushie_chibi" ],
+    "sound": "rrrrrrrrrrrrrrr",
+    "volume": 10
+  },
+  
+  {
+    "type": "speech",
+    "speaker": [ "astolfo_bean" ],
+    "sound": "*burp*",
+    "volume": 15
+  },
+  
+  {
+    "type": "speech",
+    "speaker": [ "plushie_chibi" ],
+    "sound": "SHUT UP! I WANT MOO DENG. SHUT UP.",
+    "volume": 15
+  },
+  
+  {
+    "type": "speech",
+    "speaker": [ "plushie_chibi" ],
+    "sound": "Moo Deng...! Moo Deng... Moo Deng...~",
+    "volume": 10
+  },
+  
+  {
+    "type": "speech",
+    "speaker": [ "plushie_chibi" ],
+    "sound": "*burp*",
+    "volume": 10
+  },
+
+  {
+    "type": "speech",
+    "speaker": [ "plushie_chibi" ],
+    "sound": "SHUT UP!!!",
+    "volume": 20
+  }
+]
