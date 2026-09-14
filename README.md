@@ -1,4 +1,4 @@
-# Second Chance Pillow Expansion
+# Pillow Expansion
 Expands the pillows. Plushies and body pillows galore!
 
 TODO:
