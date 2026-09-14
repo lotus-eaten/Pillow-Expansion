@@ -7,3 +7,4 @@ TODO:
 ^ If we had dirty clothes as a default, I'd have to make them get dirty with use...
 
 - Marginal pillow size differences for shorter vs taller prints.
+- Extra details that unlock if you favorite the item. Likely the lua will addend the base and add _secret to the id string that's already read.
